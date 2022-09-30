@@ -1,2 +1,2 @@
 # Hello World
-Hello static cloudflare pages dotnet.
+Hello static cloudflare pages dotnet. 
