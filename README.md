@@ -13,4 +13,12 @@ Next up:
 * Create a simple search that works with CloudFlare Functions.  Many static site starters use simple client-side search or else 3rd party like Angolia.  Client-side stinks because it pulls the entire index down to the client, which doesn't scale for large indexes.  I'd rather publish the index and a simple serverless function so that search can happen server-side.
 * Evaluate existing dotnet static site generators (there aren't many!) to see how well they fit the features above.
 
+# Evaluations
 
+* [Statiq](https://www.statiq.dev/web) - This is the most popular.  Has an unusual license, but maybe that's ok.  Successor to Wyam.
+* [Record Collector](https://github.com/krompaco/record-collector) - 
+* [IronBeard](https://github.com/wkallhof/iron-beard) -
+* [LastPage](https://github.com/tomzorz/lastpage) - Mustachio templates only.  I would like to use Razor instead.
+* [Pretzel](https://github.com/Code52/pretzel) - archived
+* [Graze](https://github.com/mikoskinen/graze) - inactive
+* [Baker](https://github.com/Kelindar/misakai-baker) - inactive
